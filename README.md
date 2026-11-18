@@ -2,41 +2,19 @@
 
 ### Python Software Developer | BSc Computer Science
 
-Python Software Developer with 3+ years of commercial development experience, primarily working on software for Raspberry Pi-based occupational health screening machines and Windows tablet applications.
+Python Software Developer with 3+ years of commercial experience building software that connects applications to machines and devices. My work centres on Python applications for Raspberry Pi-based occupational health screening machines and Windows tablet applications used to operate connected equipment.
 
-My work involves developing Python applications, integrating hardware and software, building real-time communication systems, working with databases and developing interfaces for machine operators.
+I work across hardware/software integration (GPIO, sensors, LEDs, machine workflows), real-time device communication over WebSockets, REST APIs, MySQL, offline data handling and synchronisation, and Linux/Windows development. I also produce PDF certificates and statistical reports.
 
-I have experience across both backend and frontend development, with an interest in software engineering, connected devices and systems integration.
+I am targeting Systems Integration / IoT Software Development roles, with a focus on the connection between software, hardware, devices, networks, APIs and databases.
 
 ## Technical Skills
 
-**Programming Languages**
-
-- Python (Primary)
-- SQL
-- JavaScript
-- Java (Working Knowledge)
-- C++
-- HTML / CSS
-
-**Frameworks & Libraries**
-
-- Pygame
-- React (Familiar)
-- Flutter (Familiar)
-
-**Databases & Communication**
-
-- MySQL
-- REST APIs
-- WebSockets
-
-**Platforms & Tools**
-
-- Linux
-- Windows
-- Raspberry Pi
-- Git / GitHub
+- **Languages:** Python (primary), SQL
+- **APIs and communication:** REST APIs, WebSockets
+- **Databases:** MySQL, SQLite
+- **Platforms and hardware:** Linux, Windows, Raspberry Pi, GPIO, sensors
+- **Tools and practices:** Git / GitHub, PDF generation, statistical reporting, offline data synchronisation
 
 ## Professional Experience
 
@@ -54,19 +32,15 @@ I have experience across both backend and frontend development, with an interest
 
 ## Projects
 
-This profile contains independent projects demonstrating my experience with different programming languages, frameworks, databases and software development concepts.
-
-Projects are being added as they are completed.
+Independent portfolio projects are being built and published one at a time. No project repositories are public yet; this section will link to them as they are completed.
 
 ## Areas of Interest
 
-- Python Software Development
-- Backend Development
-- Database Design
-- Hardware and Software Integration
-- API Development
-- Real-Time Communication
-- Systems Integration
+- Python systems and integration development
+- Device and hardware/software integration
+- IoT communication and telemetry
+- APIs and databases
+- Linux deployment and troubleshooting
 
 ## Contact
 
