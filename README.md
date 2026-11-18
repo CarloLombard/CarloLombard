@@ -15,20 +15,21 @@ My focus is the integration layer between software, hardware and devices, with a
 - Python (Primary)
 - SQL
 - JavaScript
-- Java (Working Knowledge)
+- Java
 - C++
 - HTML / CSS
 
 **Frameworks & Libraries**
 
 - Pygame
-- React (Familiar)
-- Flutter (Familiar)
+- React (Familiar with basics)
+- Flutter (Familiar with basics)
 
 **Databases & Communication**
 
 - MySQL
 - SQLite
+- PostgreSQL
 - REST APIs
 - WebSockets
 
@@ -40,6 +41,7 @@ My focus is the integration layer between software, hardware and devices, with a
 - GPIO, sensors and LED control
 - Git / GitHub
 - PDF generation and statistical reporting
+- File handling and data manipulation
 - Offline data handling and synchronisation
 
 Python remains my primary language for systems and hardware/software integration. The other languages and frameworks are part of my wider toolkit; they are not presented as project evidence or firmware-specialist experience.
