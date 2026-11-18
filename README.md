@@ -6,15 +6,43 @@ Python Software Developer with 3+ years of commercial experience building softwa
 
 I work across hardware/software integration (GPIO, sensors, LEDs, machine workflows), real-time device communication over WebSockets, REST APIs, MySQL, offline data handling and synchronisation, and Linux/Windows development. I also produce PDF certificates and statistical reports.
 
-I am targeting Systems Integration / IoT Software Development roles, with a focus on the connection between software, hardware, devices, networks, APIs and databases.
+My focus is the integration layer between software, hardware and devices, with an interest in device-side and embedded development. I am targeting Systems Integration / IoT Software Development roles, where I can apply a broad language toolkit to connected systems.
 
 ## Technical Skills
 
-- **Languages:** Python (primary), SQL
-- **APIs and communication:** REST APIs, WebSockets
-- **Databases:** MySQL, SQLite
-- **Platforms and hardware:** Linux, Windows, Raspberry Pi, GPIO, sensors
-- **Tools and practices:** Git / GitHub, PDF generation, statistical reporting, offline data synchronisation
+**Programming Languages**
+
+- Python (Primary)
+- SQL
+- JavaScript
+- Java (Working Knowledge)
+- C++
+- HTML / CSS
+
+**Frameworks & Libraries**
+
+- Pygame
+- React (Familiar)
+- Flutter (Familiar)
+
+**Databases & Communication**
+
+- MySQL
+- SQLite
+- REST APIs
+- WebSockets
+
+**Platforms & Tools**
+
+- Linux
+- Windows
+- Raspberry Pi
+- GPIO, sensors and LED control
+- Git / GitHub
+- PDF generation and statistical reporting
+- Offline data handling and synchronisation
+
+Python remains my primary language for systems and hardware/software integration. The other languages and frameworks are part of my wider toolkit; they are not presented as project evidence or firmware-specialist experience.
 
 ## Professional Experience
 
@@ -38,6 +66,7 @@ Independent portfolio projects are being built and published one at a time. No p
 
 - Python systems and integration development
 - Device and hardware/software integration
+- Device-side and embedded development
 - IoT communication and telemetry
 - APIs and databases
 - Linux deployment and troubleshooting
